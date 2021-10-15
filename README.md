@@ -1,19 +1,4 @@
 RAR active key 
 Download win rar home page: https://www.rarlab.com/
 Install
-Open folder install and creat file rarreg.key 
-Insert text:
-
-RAR registration data
-LuviDeez
-Unlimited Company License
-UID=4b9cf9ae44f03da08f60
-64122122508f608131460a59308052d2139f71e05182770f59e9ad
-71a6ad7d9c04295d422560fce6cb5ffde62890079861be57638717
-7131ced835ed65cc743d9777f2ea71a8e32c7e593cf66794343565
-b41bcf56929486b8bcdac33d50ecf7739960698c092ab967310bac
-86fe052e72bef7f4e32b38f4f16e8289d100a38e74ad669bfb2f1c
-323dd39c0fca07115ccba02c9cd6c8ed1865fc39d546edac60f1e7
-2a0af4dc12240e46f54ede33741aca1f39d536904d8a1258270269
-
-Save and reset win rar
+Open folder install and creat file rarreg.key
